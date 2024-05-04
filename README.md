@@ -30,7 +30,7 @@ Today, as a software engineer, I apply not only my technical knowledge but also 
 
 
 
-📫 How to reach me:[Email me](mailto:wangyufei0410@gmail.com)
+📫 How to reach me:[Email me](mailto:ranwangswe001@gmail.com)
 😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
 
 
@@ -68,7 +68,7 @@ Today, as a software engineer, I apply not only my technical knowledge but also 
 
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ran-wang-80b47a1b8/) [Email me](mailto:wangyufei0410@gmail.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ran-wang-80b47a1b8/) [Email me](mailto:ranwangswe001@gmail.com)
 😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
 
 
