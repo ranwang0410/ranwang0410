@@ -20,6 +20,7 @@ Today, as a software engineer, I apply not only my technical knowledge but also 
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-%23black?style=flat&logo=sqlalchemy&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-%234678E1?style=flat&logo=render&logoColor=white)
