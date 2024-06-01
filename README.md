@@ -31,7 +31,7 @@ Today, as a software engineer, I apply not only my technical knowledge but also 
 
 📫 How to reach me:[Email me](mailto:ranwangswe001@gmail.com)
 😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
-🌟 My live link1: [Dissscord](https://dissscord.onrender.com/)  
-🌟 My live link2: [CraftCove](https://craftcove.onrender.com/)
+🌟 Dissscord live link1: [Dissscord](https://dissscord.onrender.com/)  
+🌟 Craftcove live link2: [CraftCove](https://craftcove.onrender.com/)
 
 </div>
