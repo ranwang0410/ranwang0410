@@ -33,7 +33,7 @@ Today, as a software engineer, I apply not only my technical knowledge but also 
 
 
 
-📫 How to reach me:[Email me](mailto:ranwangswe001@gmail.com)
+📫 How to reach me:  [Email me](mailto:ranwangswe001@gmail.com)
 
 😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
 
