@@ -13,7 +13,7 @@ My journey as a software engineer has been unusual and filled with rich experien
 
 In order to pursue personal growth and identify what I really wanted to do, I chose to work as a volunteer in educational consulting after graduation, guiding students in planning their academic paths and transfer process. This experience not only greatly expanded my worldview, but also deepened my understanding of the value of finding and pursuing one's passions.
 
-Today, as a software engineer, I apply not only my technical knowledge but also my breadth of experience, demonstrating a mastery of adaptability, a commitment to continuous learning, and a passion for leveraging technology to create meaningful solutions. 
+Now, as a software engineer, I apply not only my technical knowledge but also my breadth of experience, demonstrating a mastery of adaptability, a commitment to continuous learning, and a passion for leveraging technology to create meaningful solutions. 
 ### Skills and Tools:
 ![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat&logo=redux&logoColor=white)
