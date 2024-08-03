@@ -34,7 +34,7 @@ As a software engineer, I will not only use my technical knowledge but also my b
 
 
 
-📫 Reach me:  [Email me](mailto:ranwangswe001@gmail.com) 
+📫 Reach me:  [Email me](mailto:ranwangswe001@gmail.com) [Email me](mailto:wangyufei0410@gmail.com) 
 
 😄 Go to my portfolio: [PortFolio](https://www.ranwang0410.com) 
 
