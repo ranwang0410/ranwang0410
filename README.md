@@ -16,7 +16,6 @@ In order to pursue personal growth and identify what I really wanted to do, I ch
 As a software engineer, I will not only use my technical knowledge but also my breadth of experience, demonstrating a mastery of adaptability, a commitment to continuous learning, and a passion for leveraging technology to create meaningful solutions. 
 
 ### Skills and Tools:
-
 ![React](https://img.shields.io/badge/-React-%2320232a?style=flat&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%3776AB?style=flat&logo=python&logoColor=white)
