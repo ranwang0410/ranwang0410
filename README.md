@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-As a software engineer, I came into the field with a diverse background and skill set, uniquely positioning myself to solve complex challenges within the technology industry. My technical expertise spans Python, JavaScript, React, Node.js, and SQL, which allows me to develop powerful, scalable solutions in today's rapidly changing technology environment.
+As a software engineer, I come into the field with a diverse background and skill set, uniquely positioning myself to solve complex challenges within the technology industry. My technical expertise spans Python, JavaScript, React, Node.js, and SQL, which allows me to develop powerful, scalable solutions in today's rapidly changing technology environment.
 
 My journey as a software engineer has been unusual and filled with rich experiences. Initially as a teacher of teaching Chinese as second language, I devoted myself to teaching the essence of Chinese language and Chinese culture to students around the world. After moving to the United States, I worked hard to make progress academically while working as a waitress in a restaurant. I transitioned from studying mathematics to majoring in data science at UC Berkeley, an academic journey that not only honed my analytical skills but also ignited my passion for technology and solving complex problems.
 
