@@ -33,7 +33,7 @@ As a software engineer, I will not only use my technical knowledge but also my b
 
 📫 Reach me:[email](mailto:ranwangswe001@gmail.com) 
 
-😄 my portfolio: [PortFolio](https://www.ranwang0410.com) 
+😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
 
 🌟 [Dissscord](https://dissscord.onrender.com/)  [CraftCove](https://craftcove.onrender.com/) 
 
