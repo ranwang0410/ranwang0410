@@ -31,7 +31,7 @@ As a software engineer, I will not only use my technical knowledge but also my b
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-%23000000?style=flat&logo=socket-dot-io&logoColor=white)
 
-📫 Reach me:[email](mailto:ranwangswe001@gmail.com) 
+📫 Reach me:[Email](mailto:ranwangswe001@gmail.com) 
 
 😄 My portfolio: [PortFolio](https://www.ranwang0410.com) 
 
