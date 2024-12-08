@@ -35,6 +35,6 @@ As a software engineer, I will not only use my technical knowledge but also my b
 
 😄 Portfolio: [My Portfolio](https://www.ranwang0410.com) 
 
-🌟 MY Project: [Dissscord](https://dissscord.onrender.com/)  [CraftCove](https://craftcove.onrender.com/) 
+🌟 Project: [Dissscord](https://dissscord.onrender.com/)  [CraftCove](https://craftcove.onrender.com/) 
 
 </div>
