@@ -20,7 +20,7 @@ As a software engineer, I will not only use my technical knowledge but also my b
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat&logo=redux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-%23F7DF1E?style=flat&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-%23007BFF?style=flat&logo=java&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-%23000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
